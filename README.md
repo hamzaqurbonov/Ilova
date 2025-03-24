@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="uz">
 <head>
     <meta charset="UTF-8">
@@ -7,10 +5,9 @@
     <title>Ilovani Yuklab Olish</title>
 </head>
 <body style="text-align: center; font-family: Arial, sans-serif; margin-top: 50px;">
-    <h2>Ilova</h2>
-    <h3>Ilovani Yuklab Oling</h3>
+    <h2>Ilovani Yuklab Oling</h2>
     <p>Quyidagi tugma orqali ilovani yuklab olishingiz mumkin:</p>
-    <a href="intent://github.com/hamzaqurbonov/Ilova/releases/download/v1.0.0/app-debug.apk#Intent;action=android.intent.action.VIEW;scheme=https;type=application/vnd.android.package-archive;end;"
+    <a href="https://github.com/hamzaqurbonov/Ilova/releases/download/v1.0.0/app-debug.apk"
        style="display: inline-block; padding: 10px 20px; font-size: 18px; color: white; background: blue; text-decoration: none; border-radius: 5px;">
        📥 APK'ni Yuklab Olish
     </a>
