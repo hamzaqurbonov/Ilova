@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ilovani Yuklab Olish</title>
+    <title>APK Yuklab Olish</title>
     <script>
         function installAPK() {
             var link = document.createElement("a");
@@ -23,7 +23,7 @@
     <h2>Ilova</h2>
     <h3>Ilovani Yuklab Oling</h3>
     <p>Quyidagi tugma orqali ilovani yuklab olishingiz mumkin:</p>
-    <button onclick="installAPK()" style="padding: 10px 20px; font-size: 18px; color: white; background: blue; border: none; border-radius: 5px;">
+    <button onclick="installAPK()" style="padding: 10px 20px; font-size: 18px; color: white; background: blue; border: none; border-radius: 5px; cursor: pointer;">
         📥 APK'ni Yuklab Olish
     </button>
 </body>
