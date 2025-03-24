@@ -7,7 +7,7 @@
     <script>
         function installAPK() {
             var link = document.createElement("a");
-            link.href = "https://github.com/hamzaqurbonov/Ilova/releases/download/v1.0.0/app-debug.apk";
+            link.href = "https://github.com/hamzaqurbonov/Ilova/releases/download/v1.0.1/app-debug.apk";
             link.download = "app-debug.apk";
             document.body.appendChild(link);
             link.click();
