@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      Ilovani Yuklab Olish
+      <h1>Ilovani Yuklab Oling</h1>
 </head>
 <body style="text-align: center; font-family: Arial, sans-serif; margin-top: 50px;">
     <h2>Ilovani Yuklab Oling</h2>
